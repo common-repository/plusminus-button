@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BeTheme
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iv-checkout 1.0.0\n"
+"Report-Msgid-Bugs-To: robert@inetvisio.de\n"
+"POT-Creation-Date: 2019-02-13 12:30+0800\n"
+"PO-Revision-Date: 2019-04-15 12:41+0200\n"
+"Last-Translator: Robert Weber <robert@inetvisio.de>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "PlusMinus Button"
+msgstr "PlusMinus Button"
+
+msgid "Adds functionality to increase and decrease values of number inputs by +/- buttons."
+msgstr ""
+"Einfache Bedienung der Einkaufsmenge durch +/- Buttons. Durch den PlusMinus Button ist "
+"die Auswahl der Anzahl auf der Shop Übersichtsseite, der Produktebene und im Warenkorb "
+"übersichtlich darstellbar."
+
+msgid "iv-spinner-options-title"
+msgstr "PlusMinus Button"
+
+msgid "iv-spinner-options-slug"
+msgstr ""
+"Einfache Bedienung der Einkaufsmenge durch +/- Buttons. Durch den PlusMinus Button ist "
+"die Auswahl der Anzahl auf der Shop Übersichtsseite, der Produktebene und im Warenkorb "
+"übersichtlich darstellbar."
+
+msgid "iv-spinner-section-title"
+msgstr "Wo wollen Sie den PlusMinus Button verwenden?"
+
+msgid "iv-spinner-section-slug"
+msgstr ""
+"Wählen Sie verschiedene Positionen, an denen sie in Ihrem Shop einen PlusMinus Button "
+"verwenden wollen:"
+
+msgid "iv-spinner-activate-on-shop-page"
+msgstr "Auf der Shop Seite einblenden"
+
+msgid "iv-spinner-activate-on-cart"
+msgstr "Im Warenkorb einblenden"
+
+msgid "iv-spinner-activate-on-single-product-page"
+msgstr "Auf der Produktebene einblenden"
+
+msgid "iv-spinner-settings"
+msgstr "Einstellungen"
+
+msgid "iv-spinner-styling-section-title"
+msgstr "Styling"
+
+msgid "iv-spinner-styling-section-slug"
+msgstr "Styling"
+
+msgid "iv-spinner-margin-top"
+msgstr "Margin oben"
+
+msgid "iv-spinner-margin-left"
+msgstr "Margin links"
+
+msgid "iv-spinner-margin-bottom"
+msgstr "Margin unten"
+
+msgid "iv-spinner-margin-right"
+msgstr "Margin rechts"
+
+msgid "iv-spinner-font"
+msgstr "Schriftart"
+
+msgid "iv-spinner-font-size"
+msgstr "Schriftgröße"
+
+msgid "iv-spinner-color"
+msgstr "Farbe"
+
+msgid "iv-spinner-background"
+msgstr "Hintergrundfarbe"
+
+msgid "iv-appearance-section-tab"
+msgstr "Anzeige"
+
+msgid "iv-styling-section-tab"
+msgstr "Styling"
+
+msgid "iv-styling-select-font"
+msgstr "Schriftart auswählen"
+
+#~ msgid "Select a font"
+#~ msgstr "Schriftart auswählen"
+
+#~ msgid "product-column-amount-plural"
+#~ msgstr "Packungen"
+
+#~ msgid "product-column-amount"
+#~ msgstr "Anzahl"
+
+#~ msgid "product-column-weight-%s"
+#~ msgstr "zu %s g"
+
+#~ msgid "Continue to payment"
+#~ msgstr "Bezahlen"

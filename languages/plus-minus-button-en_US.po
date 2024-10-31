@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BeTheme
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iv-checkout 1.0.0\n"
+"Report-Msgid-Bugs-To: robert@inetvisio.de\n"
+"POT-Creation-Date: 2019-02-13 12:30+0800\n"
+"PO-Revision-Date: 2019-04-15 12:42+0200\n"
+"Last-Translator: Robert Weber <robert@inetvisio.de>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "PlusMinus Button"
+msgstr "PlusMinus Button"
+
+msgid "Adds functionality to increase and decrease values of number inputs by +/- buttons."
+msgstr "Adds functionality to increase and decrease values of number inputs by +/- buttons."
+
+msgid "iv-spinner-options-title"
+msgstr "PlusMinus Button"
+
+msgid "iv-spinner-options-slug"
+msgstr "Adds functionality to increase and decrease values of number inputs by +/- buttons."
+
+msgid "iv-spinner-section-title"
+msgstr "Where do you want to use the PlusMinus Button?"
+
+msgid "iv-spinner-section-slug"
+msgstr "Decide where to use the PlusMinus Button"
+
+msgid "iv-spinner-activate-on-shop-page"
+msgstr "Activate on Shop Page"
+
+msgid "iv-spinner-activate-on-cart"
+msgstr "Activate on Cart"
+
+msgid "iv-spinner-activate-on-single-product-page"
+msgstr "Activate on Single Product Page"
+
+msgid "iv-spinner-settings"
+msgstr "Settings"
+
+#~ msgid "product-column-amount-single"
+#~ msgstr "Package"
+
+#~ msgid "product-column-amount-plural"
+#~ msgstr "Packages"
+
+#~ msgid "Continue to payment"
+#~ msgstr "Continue to payment"

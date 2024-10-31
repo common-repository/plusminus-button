@@ -1,0 +1,77 @@
+body .ui-spinner input[type='number'],
+body .ui-spinner input[type='number']:focus {
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    -moz-appearance: textfield;
+    margin-bottom: 0;
+    margin-left:auto !important;
+    margin-right:auto !important;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-family: Helvetica Neue, sans-serif;
+    font-size: 18px;
+    color: #5e5e5e;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.ui-spinner {
+    border-color: #e1e1e1 !important;
+}
+
+.ui-spinner-button {
+    height: 100% !important;
+    border: none !important;
+}
+
+.ui-spinner-down {
+    left: 0;
+    top: 0;
+}
+
+.ui-spinner-button .ui-icon {
+    background-image: none !important;
+    text-indent: 0;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+body.single-product .summary .cart .ui-spinner {
+    display: block;
+    width: 72px;
+    float: left;
+    margin-left: 10px;
+}
+
+body.single-product .summary .cart .amount {
+    height: 42px;
+    padding-top: 7px;
+}
+
+.isotope-item {
+    text-align: center;
+}
+
+li.product .quantity {
+    display: none; /*activated by plugin.js to avoid flickering*/
+    margin-right: 5px;
+    padding: 0;
+    max-width: 80px;
+}
+
+li.product .add_to_cart_button {
+    display: inline-block;
+    min-height: 26px;
+}
+
+.isotope-item .quick_view {
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    margin-top: 10px !important;
+}

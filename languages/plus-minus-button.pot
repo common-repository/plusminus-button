@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR BeTheme
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: iv-single-product-page 1.0.0\n"
+"Report-Msgid-Bugs-To: robert@inetvisio.de\n"
+"POT-Creation-Date: 2019-02-13 12:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Robert Weber <robert@inetvisio.de>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "PlusMinus Button"
+msgstr ""
+
+msgid "Adds functionality to increase and decrease values of number inputs by +/- buttons."
+msgstr ""
+
+msgid "iv-spinner-options-title"
+msgstr ""
+
+msgid "iv-spinner-options-slug"
+msgstr ""
+
+msgid "iv-spinner-section-title"
+msgstr ""
+
+msgid "iv-spinner-section-slug"
+msgstr ""
+
+msgid "iv-spinner-activate-on-shop-page"
+msgstr ""
+
+msgid "iv-spinner-activate-on-cart"
+msgstr ""
+
+msgid "iv-spinner-activate-on-single-product-page"
+msgstr ""
+
+msgid "iv-spinner-settings"
+msgstr ""
+
+msgid "iv-spinner-styling-section-title"
+msgstr ""
+
+msgid "iv-spinner-styling-section-slug"
+msgstr ""
+
+msgid "iv-spinner-margin-top"
+msgstr ""
+
+msgid "iv-spinner-margin-left"
+msgstr ""
+
+msgid "iv-spinner-margin-bottom"
+msgstr ""
+
+msgid "iv-spinner-margin-right"
+msgstr ""
+
+msgid "iv-spinner-font"
+msgstr ""
+
+msgid "iv-spinner-font-size"
+msgstr ""
+
+msgid "iv-spinner-color"
+msgstr ""
+
+msgid "iv-spinner-background"
+msgstr ""
+
+msgid "iv-appearance-section-tab"
+msgstr ""
+
+msgid "iv-styling-section-tab"
+msgstr ""
+
+msgid "iv-styling-select-font"
+msgstr ""

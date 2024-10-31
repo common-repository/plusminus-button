@@ -1,0 +1,28 @@
+.iv-form-element.checkbox + .iv-spinner-admin-checked,
+.iv-form-element.checkbox:checked + .iv-spinner-admin-checked + .iv-spinner-admin-unchecked {
+    display: none;
+}
+
+.iv-form-element.checkbox:checked + .iv-spinner-admin-checked,
+.iv-form-element.checkbox + .iv-spinner-admin-checked + .iv-spinner-admin-unchecked {
+    display: inline-block;
+}
+
+.iv-form-element.checkbox {
+    vertical-align: top;
+    margin-top: 8px;
+    margin-right: 20px;
+}
+
+td label.iv-spinner-admin-checked img, td label.iv-spinner-admin-unchecked img {
+    /*background-size: cover !important;*/
+    min-width: 160px;
+    min-height: 128px;
+    max-width: 500px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+}
+
+.iv-form-element.textfield.iv-colorpicker {
+    height: 30px;
+}
